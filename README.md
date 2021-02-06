@@ -10,8 +10,8 @@ A ideia é tratar sobre as interfaces de comunicações do Arduino, na medida do
 
 **Nível Iniciante**
 - Capítulo 1: Isolado numa ilha
-- Capítulo 2: RS-232
-- Capítulo 3: RS-485
+- Capítulo 2: I2C, SPI e RS-232
+- Capítulo 3: RS-485 e protocolos
 
 **Nível Avançado**
 - Capítulo 4: Gateways e/ou conversores
