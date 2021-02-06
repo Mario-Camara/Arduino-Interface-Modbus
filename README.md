@@ -1,6 +1,6 @@
 # Arduino-Interface-Modbus
 ***
-A ideia é tratar sobre as interfaces de comunicações do Arduino, na medida do possível abordando os fundamentos teóricos e trazendo de arrasto a indispensável prática. Tá legal, mais um conteúdo de comunicação serial em que um Arduino "fala" :man_facepalming: com outro. Sim e não! Vamos discorrer sobre RS-232, RS-485, protocolo Modbus (RTU e TCP/IP) e outras coisas mais. No entanto, o diferencial de nossa abordagem, ao longo de 5 (cinco) capítulos, será mostrar o propósito do emprego dos registradores, aproximando o mundo makers das redes de automação industrial.
+A ideia é tratar sobre as interfaces de comunicações do Arduino, na medida do possível abordando os fundamentos teóricos e trazendo de arrasto a indispensável prática. Tá legal, mais um conteúdo de comunicação serial em que um Arduino "fala" :man_facepalming: com outro. Sim e não! Vamos discorrer sobre RS-232, RS-485, protocolo Modbus (RTU e TCP/IP) e outras coisas mais. No entanto, o diferencial de nossa abordagem, ao longo de 5 (cinco) capítulos, será mostrar o propósito do emprego dos registradores e funcionamento na bancada, aproximando o mundo makers das redes de automação industrial.
 
 ***
 **Sou novato aqui - por onde começar?**
