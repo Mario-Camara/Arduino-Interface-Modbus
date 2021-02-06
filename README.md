@@ -7,10 +7,11 @@ A ideia é tratar sobre as interfaces de comunicações do Arduino, na medida do
 
 [**VAMOS JUNTOS:**](https://github.com/Mario-Camara/IoT-LPWAN-LoRa-LoRaWAN/wiki/Capa:-modula%C3%A7%C3%A3o-LoRA,-protocolo-LoRaWAN-e-um-ecossistema-a-mais.) aprender, colaborar e conectar as coisas! :fist_right: :fist_left:
 
-**Nível Iniciante**
-- Capítulo 1: Isolado
-- Capítulo 2: RS-232
-- Capítulo 3: RS-485
+-**Nível Iniciante**
+-- Capítulo 1: Isolado
+-- Capítulo 2: RS-232
+-- Capítulo 3: RS-485
+
 **Nível Avançado**
 - Capítulo 4: Gateways e/ou conversores
 - Capítulo 5: Integração ao infinito
