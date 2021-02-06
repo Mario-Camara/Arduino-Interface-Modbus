@@ -10,7 +10,7 @@ A ideia é tratar sobre as interfaces de comunicações do Arduino, na medida do
 **Fazendo acontecer a comunicação serial**
 
 **Nível Iniciante**
-- Capítulo 1: Isolado
+- Capítulo 1: Isolado numa ilha
 - Capítulo 2: RS-232
 - Capítulo 3: RS-485
 
