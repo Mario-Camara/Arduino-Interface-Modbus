@@ -5,7 +5,9 @@ A ideia é tratar sobre as interfaces de comunicações do Arduino, na medida do
 ***
 **Sou novato aqui - por onde começar?**
 
-[**VAMOS JUNTOS:**](https://github.com/Mario-Camara/IoT-LPWAN-LoRa-LoRaWAN/wiki/Capa:-modula%C3%A7%C3%A3o-LoRA,-protocolo-LoRaWAN-e-um-ecossistema-a-mais.) aprender, colaborar e conectar as coisas! :fist_right: :fist_left:
+[**VAMOS JUNTOS:**](https://github.com/Mario-Camara/Arduino-Interface-Modbus/wiki/Capa:-fazendo-acontecer-a-comunica%C3%A7%C3%A3o-serial) aprender, colaborar e conectar as coisas! :fist_right: :fist_left:
+
+**Fazendo acontecer a comunicação serial**
 
 **Nível Iniciante**
 - Capítulo 1: Isolado
