@@ -1,6 +1,6 @@
 # Arduino-Protocolos-Modbus
 ***
-A ideia é tratar sobre os protocolos de comunicações do Arduino, tanto abordando os fundamentos teóricos quanto trazendo de arrasto a indispensável prática. Tá legal, mais um conteúdo de comunicação serial em que um Arduino "fala" :man_facepalming: com outro microncontrador ou dispositivo. Sim e não! Vamos discorrer sobre os protocolos \[UART, SPI, I2C, CANbus, Modbus Serial (RS232, RS422 e RS485) e Modbus TCP/IP\] e outros correlatos. No entanto, o diferencial desta abordagem, ao longo de 5 (cinco) capítulos, será explicar a razão do emprego dos registradores (variáveis em arrays) e mostrar funcionamento na bancada de testes, procurando contribuir para que os makers tangenciem o mundo das redes de automação industriais.
+A ideia é tratar sobre os protocolos de comunicações do Arduino, tanto abordando os fundamentos teóricos quanto trazendo de arrasto a indispensável prática. Tá legal, mais um conteúdo de comunicação serial em que um Arduino "fala" :man_facepalming: com outro microncontrador ou dispositivo. Sim e não! Vamos discorrer sobre os protocolos \[UART, SPI, I2C, CANbus, Modbus Serial (RS232, RS422 e RS485) e Modbus TCP/IP\] e outros correlatos. No entanto, o diferencial desta abordagem, ao longo de 5 (cinco) capítulos, será explicar a razão do emprego dos registradores (variáveis em arrays) e demonstrar o funcionamento na bancada de testes; de modo a contribuir para o constante progresso dos makers rumo ao mundo das redes de automação industriais.
 ***
 **Sou novato aqui - por onde começar?**
 
@@ -10,7 +10,7 @@ A ideia é tratar sobre os protocolos de comunicações do Arduino, tanto aborda
 
 **Nível Iniciante**
 - Capítulo 1: Isolado numa ilha
-- Capítulo 2: Protocolos UART, SPI, I2C e CANbus
+- Capítulo 2: Protocolos: UART, SPI, I2C e CANbus
 - Capítulo 3: Modbus Serial e Modbus Ethernet
 
 **Nível Avançado**
